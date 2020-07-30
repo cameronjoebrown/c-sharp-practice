@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c-sharp-practice", "c-sharp-practice\c-sharp-practice.csproj", "{FC045176-C8CC-4C3D-BBC9-66586B6691E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC045176-C8CC-4C3D-BBC9-66586B6691E3}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{FC045176-C8CC-4C3D-BBC9-66586B6691E3}.Debug|anycpu.Build.0 = Debug|anycpu
+		{FC045176-C8CC-4C3D-BBC9-66586B6691E3}.Release|anycpu.ActiveCfg = Release|anycpu
+		{FC045176-C8CC-4C3D-BBC9-66586B6691E3}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
