@@ -6,8 +6,9 @@ namespace csharppractice
     {
         public static void Main(string[] args)
         {
+            int numBarks = 5;
             Dog dog = new Dog();
-            dog.bark(5);
+            dog.bark(numBarks);
         }
     }
 

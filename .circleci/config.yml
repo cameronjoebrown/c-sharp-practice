@@ -9,4 +9,4 @@
     
      steps:
        - checkout
-       - run: dotnet run
+       - run: dotnet run --project c-sharp-practice/
