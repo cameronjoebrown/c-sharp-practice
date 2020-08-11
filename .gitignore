@@ -11,8 +11,6 @@ autom4te.cache/
 tarballs/
 test-results/
 
-c-sharp-practice.sln
-
 # Mac bundle stuff
 *.dmg
 *.app

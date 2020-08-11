@@ -1,0 +1,38 @@
+==> Auto-updated Homebrew!
+Updated 1 tap (homebrew/core).
+==> New Formulae
+act
+argo
+argocd
+chalk-cli
+chart-testing
+clair
+cortex
+duckscript
+eksctl
+fennel
+functionalplus
+golangci-lint
+gradle-profiler
+hy
+jimtcl
+jinx
+jsonnet-bundler
+ldpl
+logcli
+loki
+never
+ngs
+oci-cli
+pipgrip
+promtail
+reg
+sdns
+thanos
+wgcf
+yj
+==> Updated Formulae
+Updated 1764 formulae.
+==> Deleted Formulae
+sflowtool
+
